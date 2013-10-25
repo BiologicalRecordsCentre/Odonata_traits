@@ -102,10 +102,10 @@ trait_summary <- function(x="all_species") {
 ```s
 trait_summary()
 ```
-![ScreenShot](https://raw.github.com/BiologicalRecordsCentre/Odonata_traits/blob/master/Images/All_species_trait_summary.jpg)
+![](https://raw.github.com/BiologicalRecordsCentre/Odonata_traits/blob/master/Images/All_species_trait_summary.jpg)
 
 #### Trait summary for *Anax imperator*
 ```s
 trait_summary(x="Anax imperator")
 ```
-![ScreenShot](https://raw.github.com/BiologicalRecordsCentre/Odonata_traits/blob/master/Images/Anax_imperator_trait_summary.jpg)
+![](https://raw.github.com/BiologicalRecordsCentre/Odonata_traits/blob/master/Images/Anax_imperator_trait_summary.jpg)
