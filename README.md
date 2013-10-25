@@ -28,7 +28,7 @@ library("reshape2")
 
 Next, we want to create a series of box plots that summarises the trait measurement data. We may
 want to produce species specific trait summaries or a summary across all species. We have written
-a simple function where the users specifies name of the species they want a trait summary for: 
+a simple function where the user specifies name of the species they want a trait summary for: 
 ```s
 trait_summary(x="Anax imperator")
 ```
