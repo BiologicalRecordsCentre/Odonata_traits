@@ -8,7 +8,7 @@ measurement data to the single value per trait data set.
 
 Overview of the trait measurements 
 ==================================
-This script (odonata_trait_summary.R) acts a simple tutorial for gaining a quick overview of the 
+This script, [odonata_trait_summary.R] (https://github.com/BiologicalRecordsCentre/Odonata_traits/blob/master/Scripts/Odonata_trait_summary.Rmd), acts a simple tutorial for gaining a quick overview of the 
 odonata trait measurements held within the Biological Records Centre (BRC).
 
 
