@@ -1,25 +1,23 @@
-Odonata traits
-==============
+Odonata trait data
+==================
+This repository contains the odonata trait data that are held within the Biological Records 
+Centre (BRC). The scripts in this repository can be used to produce an overview of the odonata 
+trait data measurements. Additionally, we have uploaded a script that combines the trait 
+measurement data to the single value per trait data set.
 
-The scripts in this repository will be used to produce an overview of the odonata trait data 
-measurements held within the Biological Records Centre (BRC). Additionally, we have uploaded 
-a script that combines the trait measurement data to the single value per trait data set.
 
-
-
-Overview of the odonata trait measurements
-==========================================
-This document acts a simple tutorial for gaining a quick overview of the odonata trait
-measurements held within the Biological Records Centre (BRC).
+Overview of the trait measurements 
+==================================
+This script (odonata_trait_summary.R) acts a simple tutorial for gaining a quick overview of the 
+odonata trait measurements held within the Biological Records Centre (BRC).
 
 
 Trait summaries
 ---------------
-
 First, we need to ensure R is clear, add the trait data and install and load the *lattice* 
 and *reshape2* packages:
 
-```{r warning=FALSE}
+```s
 rm(list=ls()) # clear R
 Odo_data <- read.csv(paste0(getwd(),"/Data/Species_trait_measurements.csv"),header=T) 
 # install.packages("lattice")
@@ -31,17 +29,17 @@ library("reshape2")
 Next, we want to create a series of box plots that summarises the trait measurement data. We may
 want to produce species specific trait summaries or a summary across all species. We have written
 a simple function where the users specifies name of the species they want a trait summary for: 
-```
+```s
 trait_summary(x="Anax imperator")
 ```
 
 or alternatively the user can specify all species:
-```
+```s
 trait_summary()
 ```
 
 A list of the 37 species that we have trait data for can be extracted from the species column:
-```{r}
+```s
 levels(Odo_data$Species)
 ```
 
@@ -50,7 +48,7 @@ function drops unused columns.  Next, the *melt* function is used to reshape the
 the format required by *lattice*. We specify the factors that will be used to produce the box 
 plots as *trait.f* and *Sex.f*. *trait.f* is the trait factor, we use *labels* to give sensible 
 names to the traits.  Similarly we give sensible labels to the sex trait, *Sex.f*:
-```{r}
+```s
 trait_summary <- function(x="all_species") {
   if(x=="all_species"){
     temp_data <- Odo_data
@@ -101,11 +99,13 @@ trait_summary <- function(x="all_species") {
 
 ### Examples
 #### Trait summary across all species
-```{r}
+```s
 trait_summary()
 ```
+![My image](BiologicalRecordsCentre.github.com/Odonata_traits/All_species_trait_summary.jpg)
 
 #### Trait summary for *Anax imperator*
-```{r}
+```s
 trait_summary(x="Anax imperator")
 ```
+![My image](BiologicalRecordsCentre.github.com/Odonata_traits/Anax_imperator_trait_summary.jpg)
