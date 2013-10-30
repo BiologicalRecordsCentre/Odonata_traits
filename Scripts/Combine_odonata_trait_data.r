@@ -7,8 +7,8 @@
 rm(list=ls()) # clear R
 
 ### Add data ###
-odo_measures <- read.csv(paste0(getwd(),"/Data/Species_trait_measurements.csv",header=T) # add the species trait measurement data. 
-odo_single <- read.csv(paste0(getwd(),"/Data/Odonata_traits_single.csv",header=T) # add the single trait per species flat file. 
+odo_measures <- read.csv(paste0(getwd(),"/Data/Species_trait_measurements.csv"),header=T) # add the species trait measurement data. 
+odo_single <- read.csv(paste0(getwd(),"/Data/Odonata_traits_single.csv"),header=T) # add the single trait per species flat file. 
 
 ### calculate the mean trait value per species - not split by sex ###
 odo <- odo_measures[,c(-1:-5)] # drop unused columns
