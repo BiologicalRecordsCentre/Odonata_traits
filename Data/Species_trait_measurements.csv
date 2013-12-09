@@ -5,7 +5,7 @@ Specimen_Number,Preservation,Order,Family,Genus,Species,Sex,thorax_length,thorax
 989498,Dry - mounted,Odonata,Aeshnidae,Aeshna,Aeshna caerulea,m,11.3,7.4,8.9,43.2,10.6,40.6,13.6,43.5,10.8,40.6,13.6
 989508,Dry - mounted,Odonata,Aeshnidae,Aeshna,Aeshna caerulea,f,10.6,7.3,9.5,42.6,10.5,42,13.5,42.5,11,42.1,13.8
 989501,Dry - mounted,Odonata,Aeshnidae,Aeshna,Aeshna caerulea,m,11.7,7.4,8.4,42.6,10.2,41.1,13.4,43.1,10,41,13.2
-989510,Dry - mounted,Odonata,Aeshnidae,Aeshna,Aeshna caerulea,f,,7.4,9.3,42.4,10.9,40.9,13.8,42.2,10.8,41.2,13.8
+989510,Dry - mounted,Odonata,Aeshnidae,Aeshna,Aeshna caerulea,f,9.9,7.4,9.3,42.4,10.9,40.9,13.8,42.2,10.8,41.2,13.8
 989503,Dry - mounted,Odonata,Aeshnidae,Aeshna,Aeshna caerulea,m,10.1,7.6,8.1,42.3,10.3,41.9,13.7,42.2,11.3,41.3,13.6
 989511,Dry - mounted,Odonata,Aeshnidae,Aeshna,Aeshna caerulea,f,10,7.4,8.6,42,10.4,40.4,12.9,41.8,10.2,40,13
 989497,Dry - mounted,Odonata,Aeshnidae,Aeshna,Aeshna caerulea,m,11.7,7.5,9.9,42,9.9,40.6,12.4,42.3,9.7,40.7,12.6
@@ -169,7 +169,7 @@ Specimen_Number,Preservation,Order,Family,Genus,Species,Sex,thorax_length,thorax
 988200,Dry - mounted,Odonata,Coenagrionidae,Ceriagrion,Ceriagrion tenellum,m,4.3,2.5,2.8,19.2,4.2,17.5,4,18.9,4.2,17.6,4
 988202,Dry - mounted,Odonata,Coenagrionidae,Ceriagrion,Ceriagrion tenellum,f,5,2.8,2.8,18.9,4.2,18,4,19.1,4.2,18.1,4.2
 988195,Dry - mounted,Odonata,Coenagrionidae,Ceriagrion,Ceriagrion tenellum,m,4.3,2.7,2.7,18.8,4.1,17.8,4.3,18.9,4,17.9,4.1
-988194,Dry - mounted,Odonata,Coenagrionidae,Ceriagrion,Ceriagrion tenellum,m,3.8,2.6,2.8,18.8,4.1,18.1,4,18.6,0.41,18.1,4
+988194,Dry - mounted,Odonata,Coenagrionidae,Ceriagrion,Ceriagrion tenellum,m,3.8,2.6,2.8,18.8,4.1,18.1,4,18.6,4.1,18.1,4
 988197,Dry - mounted,Odonata,Coenagrionidae,Ceriagrion,Ceriagrion tenellum,m,4.2,2.7,2.8,18.7,4.3,19.3,4.2,18.9,4.3,18.1,4.1
 988196,Dry - mounted,Odonata,Coenagrionidae,Ceriagrion,Ceriagrion tenellum,m,4.3,2.5,2.9,18.7,4.1,17.9,4,18.7,4.1,17.8,4.1
 988193,Dry - mounted,Odonata,Coenagrionidae,Ceriagrion,Ceriagrion tenellum,m,4.4,2.6,2.6,18.7,4,17.4,4,18.6,4.1,17.6,4
@@ -250,7 +250,7 @@ Specimen_Number,Preservation,Order,Family,Genus,Species,Sex,thorax_length,thorax
 989417,Dry - mounted,Odonata,Cordulegastridae,Cordulegaster,Cordulegaster boltonii,m,12,8.1,10.1,43.7,9.7,42.9,12.7,44.1,9.7,42.9,12.6
 989418,Dry - mounted,Odonata,Cordulegastridae,Cordulegaster,Cordulegaster boltonii,m,12.3,7.8,10.8,43.7,9.6,42.7,11.8,43.8,9.5,42.8,11.6
 989422,Dry - mounted,Odonata,Cordulegastridae,Cordulegaster,Cordulegaster boltonii,m,11.4,8.4,11.7,43.7,9.4,42.5,11.6,43.2,9,42.1,12.1
-989423,Dry - mounted,Odonata,Cordulegastridae,Cordulegaster,Cordulegaster boltonii,m,,7.9,9.5,39.3,9.1,39.2,11.6,40.1,9,39.3,11.5
+989423,Dry - mounted,Odonata,Cordulegastridae,Cordulegaster,Cordulegaster boltonii,m,12.6,7.9,9.5,39.3,9.1,39.2,11.6,40.1,9,39.3,11.5
 989458,Dry - mounted,Odonata,Corduliidae,Cordulia,Cordulia aenea,f,9.1,5.3,7.5,57,8.5,35.5,10.4,36.7,8.4,36.2,10.5
 989450,Dry - mounted,Odonata,Corduliidae,Cordulia,Cordulia aenea,m,10.1,6.3,8.5,36.6,8.5,35.1,10.5,36.6,8.5,35.8,10.4
 989460,Dry - mounted,Odonata,Corduliidae,Cordulia,Cordulia aenea,f,9,5.9,6.6,35.8,8.5,35,10.9,35.6,8.7,34.3,10.9
@@ -308,7 +308,7 @@ Specimen_Number,Preservation,Order,Family,Genus,Species,Sex,thorax_length,thorax
 988164,Dry - mounted,Odonata,Gomphidae,Gomphus,Gomphus vulgatissimus,m,9.8,6.7,7.6,32.9,7.4,30.3,9.6,33,7.6,30.2,9.5
 988163,Dry - mounted,Odonata,Gomphidae,Gomphus,Gomphus vulgatissimus,m,9.8,6.4,7.6,32.2,7.8,30.1,10,32,7.9,29.8,9.8
 988165,Dry - mounted,Odonata,Gomphidae,Gomphus,Gomphus vulgatissimus,m,9.8,6.8,7.9,32,7.7,30.6,9.6,32,7.7,29.8,9.5
-988167,Dry - mounted,Odonata,Gomphidae,Gomphus,Gomphus vulgatissimus,m,9.1,6,7.4,32,7.5,29.9,9.2,31.7,7.3,3,9.1
+988167,Dry - mounted,Odonata,Gomphidae,Gomphus,Gomphus vulgatissimus,m,9.1,6,7.4,32,7.5,29.9,9.2,31.7,7.3,30,9.1
 988162,Dry - mounted,Odonata,Gomphidae,Gomphus,Gomphus vulgatissimus,m,9.5,6.2,8,32,7.3,30,8.9,31.9,7.5,30,9
 988168,Dry - mounted,Odonata,Gomphidae,Gomphus,Gomphus vulgatissimus,m,9,5.7,7.5,31.8,7.9,31.4,9.2,32.1,7.1,30.4,9.6
 988161,Dry - mounted,Odonata,Gomphidae,Gomphus,Gomphus vulgatissimus,m,9.8,6.4,8,31.4,7.9,29,9.5,31.2,7.9,29.2,9.6
@@ -356,7 +356,7 @@ Specimen_Number,Preservation,Order,Family,Genus,Species,Sex,thorax_length,thorax
 988209,Dry - mounted,Odonata,Lestidae,Lestes,Lestes dryas,m,5.9,3.3,4.6,24.8,5.5,23.7,5.1,24.5,5.4,23.6,4.9
 988215,Dry - mounted,Odonata,Lestidae,Lestes,Lestes dryas,m,5.6,3.2,4.1,24,5.5,22.4,5.6,23.9,5.4,22.6,5.6
 988212,Dry - mounted,Odonata,Lestidae,Lestes,Lestes dryas,m,5.2,3.2,3.5,23.9,5.4,23.1,5.4,23.9,5.4,23.1,5.6
-988221,Dry - mounted,Odonata,Lestidae,Lestes,Lestes dryas,f,5.3,3.1,3.1,23.5,5.7,22.7,4.7,23.3,5.5,,5.4
+988221,Dry - mounted,Odonata,Lestidae,Lestes,Lestes dryas,f,5.3,3.1,3.1,23.5,5.7,22.7,4.7,23.3,5.5,23.4,5.4
 988213,Dry - mounted,Odonata,Lestidae,Lestes,Lestes dryas,m,5.1,3.3,4,23.4,5.4,23.1,4.9,23.4,5.3,23.2,5.3
 988210,Dry - mounted,Odonata,Lestidae,Lestes,Lestes dryas,m,5.7,3.3,4.4,23.2,5.4,22.4,5.6,23.2,5.4,22.3,5.3
 988214,Dry - mounted,Odonata,Lestidae,Lestes,Lestes dryas,m,5.3,3.2,3.7,22.6,5,21.2,5.2,22.8,5.3,21.5,4.9
@@ -371,7 +371,7 @@ Specimen_Number,Preservation,Order,Family,Genus,Species,Sex,thorax_length,thorax
 988231,Dry - mounted,Odonata,Lestidae,Lestes,Lestes sponsa,m,5.3,2.8,3.4,22.6,4.7,22,4.4,22.3,4.7,22.3,4.3
 988237,Dry - mounted,Odonata,Lestidae,Lestes,Lestes sponsa,f,5.5,2.7,3.3,22.4,4.7,21.4,4.7,22.2,4.4,21.5,4.4
 988232,Dry - mounted,Odonata,Lestidae,Lestes,Lestes sponsa,m,5.2,3,3.5,22.3,5.1,21.6,4.9,22.2,5.1,21.8,5
-988227,Dry - mounted,Odonata,Lestidae,Lestes,Lestes sponsa,m,5.4,2.9,3.3,21.8,4.5,20.8,4.2,22,4.5,,4.2
+988227,Dry - mounted,Odonata,Lestidae,Lestes,Lestes sponsa,m,5.4,2.9,3.3,21.8,4.5,20.8,4.2,22,4.5,20.8,4.2
 988228,Dry - mounted,Odonata,Lestidae,Lestes,Lestes sponsa,m,4.8,2.8,2.9,21.7,4.8,21.4,4.4,21.9,4.9,21.6,4.4
 988226,Dry - mounted,Odonata,Lestidae,Lestes,Lestes sponsa,m,5.3,2.8,3.2,21.5,4.5,20.2,4.4,21.2,4.7,20.7,4.5
 988229,Dry - mounted,Odonata,Lestidae,Lestes,Lestes sponsa,m,4.7,2.8,3.2,21.3,4.3,20,4.3,21.4,4.5,19.9,4.1
@@ -423,7 +423,7 @@ Specimen_Number,Preservation,Order,Family,Genus,Species,Sex,thorax_length,thorax
 989576,Dry - mounted,Odonata,Libellulidae,Leucorrhinia,Libellula fulva,f,9.8,7.5,7.6,36.2,8.8,36.5,12.3,36.3,8.9,36.1,12.3
 989572,Dry - mounted,Odonata,Libellulidae,Leucorrhinia,Libellula fulva,f,10.5,6.6,7.7,36.1,8.5,36.5,11.3,36.1,8.3,36.4,11.7
 989575,Dry - mounted,Odonata,Libellulidae,Leucorrhinia,Libellula fulva,f,10,7,7.5,35.9,8.6,35.1,11.3,35.9,8.7,35,11.6
-989569,Dry - mounted,Odonata,Libellulidae,Leucorrhinia,Libellula fulva,f,9.7,6.7,7.4,35.7,7.3,35.9,11.3,3.57,8.3,35.5,11.3
+989569,Dry - mounted,Odonata,Libellulidae,Leucorrhinia,Libellula fulva,f,9.7,6.7,7.4,35.7,7.3,35.9,11.3,35.7,8.3,35.5,11.3
 989571,Dry - mounted,Odonata,Libellulidae,Leucorrhinia,Libellula fulva,f,10.1,5.8,7.1,35.4,8.1,35.2,11.3,35.5,8.2,34.7,11.6
 988314,Dry - mounted,Odonata,Libellulidae,Libellula,Libellula quadrimaculata,f,11.4,7.6,8.7,40,8.9,38.9,12.5,39.8,9.1,38.3,12.4
 988310,Dry - mounted,Odonata,Libellulidae,Libellula,Libellula quadrimaculata,m,11.8,7.8,7.6,39.9,8.4,37.9,12.5,39.6,8.3,38.1,11.9
@@ -530,11 +530,11 @@ Specimen_Number,Preservation,Order,Family,Genus,Species,Sex,thorax_length,thorax
 988303,Dry - mounted,Odonata,Libellulidae,Sympetrum,Sympetrum danae,f,6.5,3.9,5.5,27.1,7.4,26.5,10,27.3,7.3,26.2,10
 988304,Dry - mounted,Odonata,Libellulidae,Sympetrum,Sympetrum danae,f,6.7,3.1,5.3,26.4,7.1,24.8,9.1,26,7,24.6,9.2
 988293,Dry - mounted,Odonata,Libellulidae,Sympetrum,Sympetrum danae,m,4.5,3.8,5.3,26,7.2,24.9,8.9,26.1,7,24.4,9.1
-988294,Dry - mounted,Odonata,Libellulidae,Sympetrum,Sympetrum danae,m,6.9,,5.2,25.6,7.1,24.7,8.9,25.9,6.9,24.4,8.9
+988294,Dry - mounted,Odonata,Libellulidae,Sympetrum,Sympetrum danae,m,6.9,3.4,5.2,25.6,7.1,24.7,8.9,25.9,6.9,24.4,8.9
 988292,Dry - mounted,Odonata,Libellulidae,Sympetrum,Sympetrum danae,m,7.4,3.9,6.5,25.4,7.1,24.9,10.1,25.6,7.1,35.2,10
 988297,Dry - mounted,Odonata,Libellulidae,Sympetrum,Sympetrum danae,f,6.8,4.2,5.1,25.3,6.9,24.8,9.1,25.3,7.2,24.6,8.9
 988300,Dry - mounted,Odonata,Libellulidae,Sympetrum,Sympetrum danae,f,6.3,3.7,5.8,25,7.2,25,10.2,25.3,7.4,24.5,9.8
-988296,Dry - mounted,Odonata,Libellulidae,Sympetrum,Sympetrum danae,m,6.3,3.6,4.3,25,,24.1,8.9,26,6.1,24.3,8.3
+988296,Dry - mounted,Odonata,Libellulidae,Sympetrum,Sympetrum danae,m,6.3,3.6,4.3,25,6.8,24.1,8.9,26,6.1,24.3,8.3
 988302,Dry - mounted,Odonata,Libellulidae,Sympetrum,Sympetrum danae,f,7,3.2,6.4,24.6,7,23.5,8.9,24.5,6.6,23.8,8.4
 988290,Dry - mounted,Odonata,Libellulidae,Sympetrum,Sympetrum danae,m,7.2,3.8,5.5,24.5,7.4,23.3,9.3,24.6,7.2,23.7,9.2
 988298,Dry - mounted,Odonata,Libellulidae,Sympetrum,Sympetrum danae,f,6.2,3.2,4.7,24,6.5,23.3,8.5,24.3,6.7,23.4,8.5
