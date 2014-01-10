@@ -1,5 +1,5 @@
-Odonata trait data
-==================
+British Odonata trait data
+==========================
 This repository contains the odonata trait data that are held within the Biological Records 
 Centre (BRC). The scripts in this repository can be used to produce an overview of the odonata 
 trait data measurements, [odonata_trait_summary.Rmd] (https://github.com/BiologicalRecordsCentre/Odonata_traits/blob/master/Scripts/Odonata_trait_summary.Rmd). Additionally, we have uploaded a script that combines the trait 
