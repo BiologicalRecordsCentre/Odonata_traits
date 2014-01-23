@@ -1,44 +1,44 @@
-Species,Common_name,Suborder,Family,Body_size_min,Body_size_max,Body_size_median,Partivoltine,Semivoltine,Univoltine,Bivoltine,Multivoltine,Overwintering_stage,Flight_period_start,Flight_period_end,Flight_period_duration,Migratory,Distribution_status,JNCC_Red_List_status,Synchronicity,Climatic_restrictions,Lowland_rivers_and_canals,Streams_and_upland_rivers,Bogs_moorland_and_lowland_wet_heath,Levels_fens_and_grazing_marshes,Ponds_and_lakes,Woodland,No_habitat_types,Oviposition,Life_cycle_years,Life_cycle_range,breeding_habitat,Body_length_min,Body_length_max,Larval_body_length_min,Larval_body_length_max
-Aeshna affinis,Southern Migrant Hawker,Anisoptera,Aeshnidae,43,49,46,0,0,1*,0,0,E,Late June,Late August,2,Y,Vagrant,LC,NA,Continental,,,,1,1,,2,Endophytic,NA,NA,lentic,NA,NA,NA,NA
-Aeshna caerulea,Azure Hawker,Anisoptera,Aeshnidae,42,48,45,1,0,0,0,0,EL,Mid June,August,2.5,N,Rare,VU,Type 2 Summer,Northern,,,1,,,1,2,Endophytic,3.5,03-Apr,lentic,54,64,34,39
-Aeshna cyanea,Southern Hawker,Anisoptera,Aeshnidae,51,60,55.5,1,1,1*,0,0,EL,July,October,3,N,Very widespread,LC,Type 2 Summer,Southern,1,,,,1,1,3,Endophytic,2.4,02-Mar,lentic,67,76,38,48
-Aeshna grandis,Brown Hawker,Anisoptera,Aeshnidae,49,60,54.5,0,1*,0,0,0,EL,June,October,4,N,Very widespread,LC,Type 2 Summer,Continental,1,,1,1,1,1,5,Endophytic,2.8,02-Apr,lentic,70,77,40,46
-Aeshna isosceles,Norfolk Hawker,Anisoptera,Aeshnidae,47,54,50.5,0,1*,0,0,0,EL,Early June,Mid July,1.5,N,Very rare,EN,Type 1 Spring,NA,,,,1,1,,2,Endophytic,2,2,lentic,62,66,38,44
-Aeshna juncea,Common Hawker,Anisoptera,Aeshnidae,50,59,54.5,1,1,0,0,0,E,June,Early November,4.5,N,Widespread,LC,Type 2 Summer,Oceanic,,,1,,1,1,3,Endophytic,2,2,lentic,65,80,40,51
-Aeshna mixta,Migrant Hawker,Anisoptera,Aeshnidae,43,49,46,0,0,1*,0,0,E,Late July,October,2.5,Y,Widespread,LC,Type 3 Summer,Continental,1,,,1,1,1,4,Endophytic,1,1,lentic,56,64,30,38
-Anax imperator,Emperor Dragonfly,Anisoptera,Aeshnidae,49,61,55,0,1,1,1*,0,L,June,Late August,2.5,N,Widespread,LC,Type 1 Spring,Southern,1,,1,1,1,1,5,Endophytic,1.4,01-Feb,lentic,66,84,45,56
-Brachytron pratense,Hairy Dragonfly,Anisoptera,Aeshnidae,37,46,41.5,1*,0,1,0,0,L,Early May,Early July,2,N,Local,LC,Type 1 Spring,Southern,1,,1,1,1,,4,Endophytic,1.7,01-Mar,lentic,54,63,35,40
-Calopteryx splendens,Banded Demoiselle,Zygoptera,Calopterygidae,33,40,36.5,0,1*,1*,0,0,L,Mid May,September,4,N,Widespread,LC,Type 2 Summer,Southern,1,,,,,,1,Endophytic,2,2,lotic,45,48,18,24
-Calopteryx virgo,Beautiful Demoiselle,Zygoptera,Calopterygidae,33,40,36.5,0,1,1*,0,0,L,Late May,September,3.5,N,Widespread,LC,Type 1 Spring,Oceanic,,1,,,,,1,Endophytic,2,2,lotic,45,49,17,23
-Ceriagrion tenellum,Small Red Damselfly,Zygoptera,Coenagrionidae,22,27,24.5,0,1,0,0,0,L,Early June,Early September,3,N,Scarce,LC,Type 2 Summer,Southern,,,1,,,,1,Endophytic,2,2,lentic,25,35,11,12
-Coenagrion hastulatum,Northern Damselfly,Zygoptera,Coenagrionidae,22,26,24,1*,1*,1*,0,0,L,Mid May,Early August,2.5,N,Very rare,EN,Type 2 Summer,Northern,,,,,1,1,2,Endophytic,1.4,01-Feb,lentic,31,33,14,15
-Coenagrion lunulatum,Irish Damselfly,Zygoptera,Coenagrionidae,22,26,24,NA,NA,NA,NA,NA,NA,Mid May,End July,2.5,N,Rare,NA,NA,NA,,,1,,1,1,3,Endophytic,NA,NA,lentic,30,33,15,18
-Coenagrion mercuriale,Southern Damselfly,Zygoptera,Coenagrionidae,22,26,24,0,1,0,0,0,L,Mid May,Early August,2.5,N,Rare,EN,Type 2 Summer,Southern,,1,1,,,,2,Endophytic,2,2,lotic,27,31,11,14
-Coenagrion puella,Azure Damsefly,Zygoptera,Coenagrionidae,23,30,26.5,0,1,1,0,0,L,Mid May,Late August,3.5,N,Very widespread,LC,Type 2 Summer,Southern,1,,,1,1,1,4,Endophytic,1.4,01-Feb,lentic,33,35,12,13
-Coenagrion pulchellum,Variable Damselfly,Zygoptera,Coenagrionidae,23,30,26.5,0,0,1*,0,0,L,Mid May,August,3,N,Local,NT,Type 2 Summer,Southern,1,,,1,1,,3,Endophytic,1,1,lentic,34,38,13,14
-Coenagrion scitulum,Norfolk Damselfly,Zygoptera,Coenagrionidae,22,26,24,NA,NA,NA,NA,NA,NA,Late May,Late July,2,N,Very rare,NA,NA,Continental,,,,1,1,,2,Endophytic,1,1,lentic,NA,NA,NA,NA
-Cordulegaster boltonii,Golden-ringed Dragonfly,Anisoptera,Cordulegastridae,54,64,59,1*,1*,0,0,0,L,Late May,September,3.5,N,Widespread,LC,Type 1 Spring,Oceanic,,1,1,,,,2,Endophytic,3.2,02-May,lotic,74,80,35,42
-Cordulia aenea,Downy Emerald,Anisoptera,Corduliidae,33,39,36,1*,1*,0,0,0,L,Mid May,Mid July,2,N,Scarce,LC,Type 1 Spring,Southern,,,1,,1,1,3,Exophytic,2.4,02-Mar,lentic,47,55,22,25
-Enallagma cyathigerum,Common Blue Damselfly,Zygoptera,Coenagrionidae,24,28,26,NA,NA,NA,NA,NA,L,May,Early September,3.5,N,Very widespread,LC,Type 2 Summer,Widespread,1,,1,1,1,1,5,Endophytic,1.4,01-Feb,lentic,29,36,14,18
-Erythromma najas,Red-eyed Damselfly,Zygoptera,Coenagrionidae,25,30,27.5,NA,NA,NA,NA,NA,L,Mid May,Mid August,3,N,Local,LC,Type 1 Spring,Continental,1,,,1,1,1,4,Endophytic,2,2,lentic,30,36,18,22
-Erythromma viridulum,Small Red-eyed Damselfly,Zygoptera,Coenagrionidae,22,25,23.5,NA,NA,NA,NA,NA,NA,June,Early September,2.5,N,Local,NA,NA,Continental,,,,1,1,,2,Endophytic,NA,NA,lentic,NA,NA,NA,NA
-Gomphus vulgatissimus,Club-tailed dragonfly,Anisoptera,Gomphidae,32,37,34.5,1*,1*,0,0,0,L,Early May,Late June,2,N,Rare,NT,Type 1 Spring,Southern,1,,,,,1,2,Exophytic,3.9,03-May,lotic,45,50,27,30
-Ischnura elegans,Blue-tailed Damselfly,Zygoptera,Coenagrionidae,22,29,25.5,0,1,1,1*,1*,L,May,September,4,N,Very widespread,LC,Type 2 Summer,Widespread,1,,1,1,1,1,5,Endophytic,1.4,01-Feb,lentic,30,34,13,15
-Ischnura pumilio,Scarce Blue-tailed Damselfly,Zygoptera,Coenagrionidae,21,25,23,0,0,1,1*,1*,L,Late May,Early September,3,N,Scarce,NT,Type 2 Summer,Southern,,,1,1,,,2,Endophytic,1.4,01-Feb,lentic,26,31,11,12
-Lestes barbarus,Southern Emerald Damselfly,Zygoptera,Lestidae,26,35,30.5,NA,NA,NA,NA,NA,E,End May,End September,4,Y,Very rare,LC,Type 3 Summer,Continental,,,1,1,,,2,Endophytic,1,1,lentic,40,45,17,18
-Lestes dryas,Scarce Emerald Damselfly,Zygoptera,Lestidae,25,33,29,0,0,1*,0,0,E,Late June,Late August,2,N,Rare,NT,Type 3 Summer,Continental,,,,1,1,,2,Endophytic,1,1,lentic,35,40,17,22
-Lestes sponsa,Emerald Damselfly,Zygoptera,Lestidae,25,33,29,0,0,1,0,0,E,Late June,Late September,3,N,Very widespread,LC,Type 3 Summer,Widespread,1,,1,1,1,1,5,Endophytic,1,1,lentic,35,39,16,22
-Lestes viridis,Willow Emerald Damselfly,Zygoptera,Lestidae,30,40,35,0,0,1*,0,0,E,June,November,5,Y,Very rare,NA,Type 3 Summer,Continental,1,,,1,1,,3,Endophytic,1,1,lentic,39,48,16,19
-Leucorrhinia dubia,White-faced Darter,Anisoptera,Libellulidae,21,27,24,1*,1*,0,0,0,L,Mid May,Early August,2.5,N,Rare,EN,Type 1 Spring,Northern,,,1,,,,1,Exophytic,2,2,lentic,31,36,18,22
-Libellula depressa,Broad-bodied Chaser,Anisoptera,Libellulidae,22,28,25,0,1*,1,0,0,L,Mid May,Early August,2.5,N,Widespread,LC,Type 1 Spring,Southern,,,,1,1,,2,Exophytic,1.7,01-Mar,lentic,39,48,22.5,25
-Libellula fulva,Scarce Chaser,Anisoptera,Libellulidae,26,29,27.5,0,1*,0,0,0,L,Late May,Early Auu,2,N,Rare,NT,Type 1 Spring,Southern,1,,,1,,,2,Exophytic,2,2,lentic,42,45,22,25
-Libellula quadrimaculata,Four-spotted Chaser,Anisoptera,Libellulidae,27,32,29.5,0,0,1*,0,0,L,Late May,Mid August,2.5,Y,Very widespread,LC,Type 1 Spring,Widespread,1,,1,1,1,,4,Exophytic,2,2,lentic,40,48,18,28
-Orthetrum cancellatum,Black-tailed Skimmer,Anisoptera,Libellulidae,29,35,32,0,1*,0,1*,0,L,Late May,Early August,2,N,Local,LC,Type 1 Spring,Southern,1,,,1,1,,3,Exophytic,2,2,lentic,44,50,23,25.5
-Orthetrum coerulescens,Keeled Skimmer,Anisoptera,Libellulidae,25,31,28,0,0,1*,1*,0,L,Early June,Late August,3,N,Local,LC,Type 1 Spring,Oceanic,,1,1,,,,2,Exophytic,2,2,lotic,36,45,17,23
-Platycnemis pennipes,White-legged Damselfly,Zygoptera,Platycnemis,27,31,29,0,0,1*,0,0,L,Late May,Mid August,2.5,N,Scarce,LC,Type 1 Spring,Southern,1,,,1,,,2,Endophytic,2,2,lotic,35,37,13,15
-Pyrrhosoma nymphula,Large Red Damselfly,Zygoptera,Coenagrionidae,25,29,27,0,1,1,0,0,L,Mid May,Early July,1.5,N,Very widespread,LC,Type 1 Spring,Widespread,1,,1,1,1,1,5,Endophytic,2,2,lentic,33,36,13,14
-Somatochlora arctica,Northern Emerald,Anisoptera,Corduliidae,30,37,33.5,1*,0,0,0,0,L,Late May,Late September,4,N,Rare,NT,Type 1 Spring,Northern,,,1,,1,1,3,Exophytic,2,2,lentic,45,51,17,20
-Somatochlora metallica,Brillinat Emerald,Anisoptera,Corduliidae,37,40,38.5,1*,1*,0,0,0,L,Late June,August,1.5,N,Rare,VU,Type 1 Spring,Widespread,,,,,1,1,2,Exophytic,2.4,02-Mar,lentic,50,55,23,26
-Sympetrum danae,Black Darter,Anisoptera,Libellulidae,18,24,21,0,0,1*,0,0,E,Mid July,Mid September,2,Y,Widespread,LC,Type 3 Summer,Widespread,,,1,,,,1,Exophytic,1,1,lentic,29,34,13,16
-Sympetrum sanguineum,Ruddy Darter,Anisoptera,Libellulidae,20,26,23,0,0,1,0,0,E,Late June,October,3.5,N,Widespread,LC,Type 3 Summer,Continental,1,,1,1,1,1,5,Exophytic,1,1,lentic,34,39,15,17
-Sympetrum striolatum,Common Darter,Anisoptera,Libellulidae,25,30,27.5,0,0,1,1*,0,EL,Mid June,November,5,Y,Very widespread,LC,Type 3 Summer,Widespread,1,,1,1,1,1,5,Exophytic,1,1,lentic,35,44,15.5,18
+Species,Suborder,Family,Body_size_min,Body_size_max,Body_size_median,Partivoltine,Semivoltine,Univoltine,Bivoltine,Multivoltine,Overwintering_stage,Flight_period_start,Flight_period_end,Flight_period_duration,Migratory,Distribution_status,JNCC_Red_List_status,Synchronicity,Climatic_restrictions,Lowland_rivers_and_canals,Streams_and_upland_rivers,Bogs_moorland_and_lowland_wet_heath,Levels_fens_and_grazing_marshes,Ponds_and_lakes,Woodland,No_habitat_types,Oviposition,breeding_habitat,Body_length_min,Body_length_max,Larval_body_length_min,Larval_body_length_max
+Aeshna affinis,Anisoptera,Aeshnidae,43,49,46,0,0,1*,0,0,E,Late June,Late August,2,Y,Vagrant,LC,NA,Continental,,,,1,1,,2,Endophytic,lentic,NA,NA,NA,NA
+Aeshna caerulea,Anisoptera,Aeshnidae,42,48,45,1,0,0,0,0,EL,Mid June,August,2.5,N,Rare,VU,Type 2 Summer,Northern,,,1,,,1,2,Endophytic,lentic,54,64,34,39
+Aeshna cyanea,Anisoptera,Aeshnidae,51,60,55.5,1,1,1*,0,0,EL,July,October,3,N,Very widespread,LC,Type 2 Summer,Southern,1,,,,1,1,3,Endophytic,lentic,67,76,38,48
+Aeshna grandis,Anisoptera,Aeshnidae,49,60,54.5,0,1*,0,0,0,EL,June,October,4,N,Very widespread,LC,Type 2 Summer,Continental,1,,1,1,1,1,5,Endophytic,lentic/lotic,70,77,40,46
+Aeshna isosceles,Anisoptera,Aeshnidae,47,54,50.5,0,1*,0,0,0,EL,Early June,Mid July,1.5,N,Very rare,EN,Type 1 Spring,NA,,,,1,1,,2,Endophytic,lentic,62,66,38,44
+Aeshna juncea,Anisoptera,Aeshnidae,50,59,54.5,1,1,0,0,0,E,June,Early November,4.5,N,Widespread,LC,Type 2 Summer,Oceanic,,,1,,1,1,3,Endophytic,lentic,65,80,40,51
+Aeshna mixta,Anisoptera,Aeshnidae,43,49,46,0,0,1*,0,0,E,Late July,October,2.5,Y,Widespread,LC,Type 3 Summer,Continental,1,,,1,1,1,4,Endophytic,lentic/lotic,56,64,30,38
+Anax imperator,Anisoptera,Aeshnidae,49,61,55,0,1,1,1*,0,L,June,Late August,2.5,N,Widespread,LC,Type 1 Spring,Southern,1,,1,1,1,1,5,Endophytic,lentic,66,84,45,56
+Brachytron pratense,Anisoptera,Aeshnidae,37,46,41.5,1*,0,1,0,0,L,Early May,Early July,2,N,Local,LC,Type 1 Spring,Southern,1,,1,1,1,,4,Endophytic,lentic,54,63,35,40
+Calopteryx splendens,Zygoptera,Calopterygidae,33,40,36.5,0,1*,1*,0,0,L,Mid May,September,4,N,Widespread,LC,Type 2 Summer,Southern,1,,,,,,1,Endophytic,lotic,45,48,18,24
+Calopteryx virgo,Zygoptera,Calopterygidae,33,40,36.5,0,1,1*,0,0,L,Late May,September,3.5,N,Widespread,LC,Type 1 Spring,Oceanic,,1,,,,,1,Endophytic,lotic,45,49,17,23
+Ceriagrion tenellum,Zygoptera,Coenagrionidae,22,27,24.5,0,1,0,0,0,L,Early June,Early September,3,N,Scarce,LC,Type 2 Summer,Southern,,,1,,,,1,Endophytic,lentic/lotic,25,35,11,12
+Coenagrion hastulatum,Zygoptera,Coenagrionidae,22,26,24,1*,1*,1*,0,0,L,Mid May,Early August,2.5,N,Very rare,EN,Type 2 Summer,Northern,,,,,1,1,2,Endophytic,lentic,31,33,14,15
+Coenagrion lunulatum,Zygoptera,Coenagrionidae,22,26,24,NA,NA,NA,NA,NA,NA,Mid May,End July,2.5,N,Rare,NA,NA,NA,,,1,,1,1,3,Endophytic,lentic,30,33,15,18
+Coenagrion mercuriale,Zygoptera,Coenagrionidae,22,26,24,0,1,0,0,0,L,Mid May,Early August,2.5,N,Rare,EN,Type 2 Summer,Southern,,1,1,,,,2,Endophytic,lotic,27,31,11,14
+Coenagrion puella,Zygoptera,Coenagrionidae,23,30,26.5,0,1,1,0,0,L,Mid May,Late August,3.5,N,Very widespread,LC,Type 2 Summer,Southern,1,,,1,1,1,4,Endophytic,lentic,33,35,12,13
+Coenagrion pulchellum,Zygoptera,Coenagrionidae,23,30,26.5,0,0,1*,0,0,L,Mid May,August,3,N,Local,NT,Type 2 Summer,Southern,1,,,1,1,,3,Endophytic,lentic/lotic,34,38,13,14
+Coenagrion scitulum,Zygoptera,Coenagrionidae,22,26,24,NA,NA,NA,NA,NA,NA,Late May,Late July,2,N,Very rare,NA,NA,Continental,,,,1,1,,2,Endophytic,lentic/lotic,NA,NA,NA,NA
+Cordulegaster boltonii,Anisoptera,Cordulegastridae,54,64,59,1*,1*,0,0,0,L,Late May,September,3.5,N,Widespread,LC,Type 1 Spring,Oceanic,,1,1,,,,2,Endophytic,lotic,74,80,35,42
+Cordulia aenea,Anisoptera,Corduliidae,33,39,36,1*,1*,0,0,0,L,Mid May,Mid July,2,N,Scarce,LC,Type 1 Spring,Southern,,,1,,1,1,3,Exophytic,lentic,47,55,22,25
+Enallagma cyathigerum,Zygoptera,Coenagrionidae,24,28,26,NA,NA,NA,NA,NA,L,May,Early September,3.5,N,Very widespread,LC,Type 2 Summer,Widespread,1,,1,1,1,1,5,Endophytic,lentic/lotic,29,36,14,18
+Erythromma najas,Zygoptera,Coenagrionidae,25,30,27.5,NA,NA,NA,NA,NA,L,Mid May,Mid August,3,N,Local,LC,Type 1 Spring,Continental,1,,,1,1,1,4,Endophytic,lentic/lotic,30,36,18,22
+Erythromma viridulum,Zygoptera,Coenagrionidae,22,25,23.5,NA,NA,NA,NA,NA,NA,June,Early September,2.5,N,Local,NA,NA,Continental,,,,1,1,,2,Endophytic,lentic,NA,NA,NA,NA
+Gomphus vulgatissimus,Anisoptera,Gomphidae,32,37,34.5,1*,1*,0,0,0,L,Early May,Late June,2,N,Rare,NT,Type 1 Spring,Southern,1,,,,,1,2,Exophytic,lotic,45,50,27,30
+Ischnura elegans,Zygoptera,Coenagrionidae,22,29,25.5,0,1,1,1*,1*,L,May,September,4,N,Very widespread,LC,Type 2 Summer,Widespread,1,,1,1,1,1,5,Endophytic,lentic,30,34,13,15
+Ischnura pumilio,Zygoptera,Coenagrionidae,21,25,23,0,0,1,1*,1*,L,Late May,Early September,3,N,Scarce,NT,Type 2 Summer,Southern,,,1,1,,,2,Endophytic,lentic,26,31,11,12
+Lestes barbarus,Zygoptera,Lestidae,26,35,30.5,NA,NA,NA,NA,NA,E,End May,End September,4,Y,Very rare,LC,Type 3 Summer,Continental,,,1,1,,,2,Endophytic,lentic,40,45,17,18
+Lestes dryas,Zygoptera,Lestidae,25,33,29,0,0,1*,0,0,E,Late June,Late August,2,N,Rare,NT,Type 3 Summer,Continental,,,,1,1,,2,Endophytic,lentic,35,40,17,22
+Lestes sponsa,Zygoptera,Lestidae,25,33,29,0,0,1,0,0,E,Late June,Late September,3,N,Very widespread,LC,Type 3 Summer,Widespread,1,,1,1,1,1,5,Endophytic,lentic,35,39,16,22
+Lestes viridis,Zygoptera,Lestidae,30,40,35,0,0,1*,0,0,E,June,November,5,Y,Very rare,NA,Type 3 Summer,Continental,1,,,1,1,,3,Endophytic,lentic/lotic,39,48,16,19
+Leucorrhinia dubia,Anisoptera,Libellulidae,21,27,24,1*,1*,0,0,0,L,Mid May,Early August,2.5,N,Rare,EN,Type 1 Spring,Northern,,,1,,,,1,Exophytic,lentic,31,36,18,22
+Libellula depressa,Anisoptera,Libellulidae,22,28,25,0,1*,1,0,0,L,Mid May,Early August,2.5,N,Widespread,LC,Type 1 Spring,Southern,,,,1,1,,2,Exophytic,lentic,39,48,22.5,25
+Libellula fulva,Anisoptera,Libellulidae,26,29,27.5,0,1*,0,0,0,L,Late May,Early Auu,2,N,Rare,NT,Type 1 Spring,Southern,1,,,1,,,2,Exophytic,lentic,42,45,22,25
+Libellula quadrimaculata,Anisoptera,Libellulidae,27,32,29.5,0,0,1*,0,0,L,Late May,Mid August,2.5,Y,Very widespread,LC,Type 1 Spring,Widespread,1,,1,1,1,,4,Exophytic,lentic/lotic,40,48,18,28
+Orthetrum cancellatum,Anisoptera,Libellulidae,29,35,32,0,1*,0,1*,0,L,Late May,Early August,2,N,Local,LC,Type 1 Spring,Southern,1,,,1,1,,3,Exophytic,lentic/lotic,44,50,23,25.5
+Orthetrum coerulescens,Anisoptera,Libellulidae,25,31,28,0,0,1*,1*,0,L,Early June,Late August,3,N,Local,LC,Type 1 Spring,Oceanic,,1,1,,,,2,Exophytic,lotic,36,45,17,23
+Platycnemis pennipes,Zygoptera,Platycnemis,27,31,29,0,0,1*,0,0,L,Late May,Mid August,2.5,N,Scarce,LC,Type 1 Spring,Southern,1,,,1,,,2,Endophytic,lotic,35,37,13,15
+Pyrrhosoma nymphula,Zygoptera,Coenagrionidae,25,29,27,0,1,1,0,0,L,Mid May,Early July,1.5,N,Very widespread,LC,Type 1 Spring,Widespread,1,,1,1,1,1,5,Endophytic,lentic,33,36,13,14
+Somatochlora arctica,Anisoptera,Corduliidae,30,37,33.5,1*,0,0,0,0,L,Late May,Late September,4,N,Rare,NT,Type 1 Spring,Northern,,,1,,1,1,3,Exophytic,lentic,45,51,17,20
+Somatochlora metallica,Anisoptera,Corduliidae,37,40,38.5,1*,1*,0,0,0,L,Late June,August,1.5,N,Rare,VU,Type 1 Spring,Widespread,,,,,1,1,2,Exophytic,lentic/lotic,50,55,23,26
+Sympetrum danae,Anisoptera,Libellulidae,18,24,21,0,0,1*,0,0,E,Mid July,Mid September,2,Y,Widespread,LC,Type 3 Summer,Widespread,,,1,,,,1,Exophytic,lentic,29,34,13,16
+Sympetrum sanguineum,Anisoptera,Libellulidae,20,26,23,0,0,1,0,0,E,Late June,October,3.5,N,Widespread,LC,Type 3 Summer,Continental,1,,1,1,1,1,5,Exophytic,lentic,34,39,15,17
+Sympetrum striolatum,Anisoptera,Libellulidae,25,30,27.5,0,0,1,1*,0,EL,Mid June,November,5,Y,Very widespread,LC,Type 3 Summer,Widespread,1,,1,1,1,1,5,Exophytic,lentic/lotic,35,44,15.5,18
